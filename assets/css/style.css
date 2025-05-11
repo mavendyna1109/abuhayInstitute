@@ -95,7 +95,12 @@ Version      : 1.0
     border-radius: 0px 65px 65px 0px;}
 .badge-D { background-color: #f39c12;     font-size: 20px;
     border-radius: 0px 65px 65px 0px;}
+.ab_li{
+	margin-bottom: 11px;
+}
 
+
+	/*end Costum*/
 
 body {
 color:#888;
@@ -3255,7 +3260,7 @@ text-decoration: underline;
 .section-top {
 	padding-top: 200px;
 	position: relative;
-	background: url(../images/banner/section-top.png);
+	background: url(../images/banner/section-top.jpg);
 	background-size: cover;
 	background-position: center;
 	padding-bottom: 120px;
